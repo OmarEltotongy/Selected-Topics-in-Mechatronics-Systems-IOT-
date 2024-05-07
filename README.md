@@ -1,2 +1,4 @@
 # Selected-Topics-in-Mechatronics-Systems-IOT-
-IOT Ai Smoke Detector
+Machine Predictive Maintenance Classification
+Dataset to predict machine failure (binary) and type (multiclass)
+
